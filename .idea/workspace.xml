@@ -8,72 +8,72 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/reports/06-11-2017_12-15-57.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/board.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/Driver.java" afterPath="$PROJECT_DIR$/src/sudokuGame/Driver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Primitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Primitive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Evolution.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Evolution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/TerminalOrPrimitive.class" afterPath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/TerminalOrPrimitive.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Evolution.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Evolution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Driver.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Driver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/TournamentSelection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/TournamentSelection.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/TournamentSelection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/TournamentSelection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-17.html" afterPath="$PROJECT_DIR$/docs/index-files/index-17.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Variable.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Variable.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/constant-values.html" afterPath="$PROJECT_DIR$/docs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Node.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Node.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/TerminalOrPrimitive.java" afterPath="$PROJECT_DIR$/src/sudokuGame/TerminalOrPrimitive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-frame.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Individual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Individual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-11.html" afterPath="$PROJECT_DIR$/docs/index-files/index-11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-18.html" afterPath="$PROJECT_DIR$/docs/index-files/index-18.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-10.html" afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Selection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Selection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Driver.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Driver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/Selection.java" afterPath="$PROJECT_DIR$/src/sudokuGame/Selection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Terminal.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Terminal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Primitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Primitive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Individual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Individual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Selection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Selection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/overview-tree.html" afterPath="$PROJECT_DIR$/docs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/BoardIndividual.java" afterPath="$PROJECT_DIR$/src/sudokuGame/BoardIndividual.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/CSV_Writer.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/CSV_Writer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-tree.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/BoardIndividual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/BoardIndividual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-9.html" afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Node.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Node.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/SudokuFileUtil.class" afterPath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/SudokuFileUtil.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-19.html" afterPath="$PROJECT_DIR$/docs/index-files/index-19.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/BoardIndividual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/BoardIndividual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-14.html" afterPath="$PROJECT_DIR$/docs/index-files/index-14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/help-doc.html" afterPath="$PROJECT_DIR$/docs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/Driver.class" afterPath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/Driver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Variable.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Variable.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/TerminalOrPrimitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/TerminalOrPrimitive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-13.html" afterPath="$PROJECT_DIR$/docs/index-files/index-13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/BoardIndividual.java" afterPath="$PROJECT_DIR$/src/sudokuGame/BoardIndividual.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-10.html" afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-15.html" afterPath="$PROJECT_DIR$/docs/index-files/index-15.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-12.html" afterPath="$PROJECT_DIR$/docs/index-files/index-12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-use.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-summary.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/SudokuFileUtil.java" afterPath="$PROJECT_DIR$/src/sudokuGame/SudokuFileUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Terminal.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Terminal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/CSV_Writer.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/CSV_Writer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/deprecated-list.html" afterPath="$PROJECT_DIR$/docs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-16.html" afterPath="$PROJECT_DIR$/docs/index-files/index-16.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/SudokuFileUtil.class" afterPath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/SudokuFileUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/TournamentSelection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/TournamentSelection.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/TerminalOrPrimitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/TerminalOrPrimitive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Population.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Population.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Population.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Population.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/BoardIndividual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/BoardIndividual.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/TerminalOrPrimitive.java" afterPath="$PROJECT_DIR$/src/sudokuGame/TerminalOrPrimitive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Variable.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Variable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/SudokuFileUtil.java" afterPath="$PROJECT_DIR$/src/sudokuGame/SudokuFileUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-tree.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/Selection.java" afterPath="$PROJECT_DIR$/src/sudokuGame/Selection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-frame.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-17.html" afterPath="$PROJECT_DIR$/docs/index-files/index-17.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/Variable.java" afterPath="$PROJECT_DIR$/src/sudokuGame/Variable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/BoardIndividual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/BoardIndividual.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Driver.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Driver.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Node.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Node.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/Driver.class" afterPath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/Driver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Evolution.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Evolution.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/deprecated-list.html" afterPath="$PROJECT_DIR$/docs/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Population.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Population.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sudokuGame/Driver.java" afterPath="$PROJECT_DIR$/src/sudokuGame/Driver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/CSV_Writer.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/CSV_Writer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Selection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Selection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-summary.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/overview-tree.html" afterPath="$PROJECT_DIR$/docs/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Driver.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Driver.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-11.html" afterPath="$PROJECT_DIR$/docs/index-files/index-11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Primitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Primitive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-14.html" afterPath="$PROJECT_DIR$/docs/index-files/index-14.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/constant-values.html" afterPath="$PROJECT_DIR$/docs/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/TournamentSelection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/TournamentSelection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Population.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Population.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/TerminalOrPrimitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/TerminalOrPrimitive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/package-use.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/CSV_Writer.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/CSV_Writer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Primitive.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Primitive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-12.html" afterPath="$PROJECT_DIR$/docs/index-files/index-12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-16.html" afterPath="$PROJECT_DIR$/docs/index-files/index-16.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-18.html" afterPath="$PROJECT_DIR$/docs/index-files/index-18.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/TerminalOrPrimitive.class" afterPath="$PROJECT_DIR$/out/production/Sudoku-Solver/sudokuGame/TerminalOrPrimitive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-9.html" afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Node.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Node.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Individual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Individual.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-13.html" afterPath="$PROJECT_DIR$/docs/index-files/index-13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Terminal.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Terminal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Selection.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Selection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/help-doc.html" afterPath="$PROJECT_DIR$/docs/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/class-use/Terminal.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/class-use/Terminal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sudokuGame/Individual.html" afterPath="$PROJECT_DIR$/docs/sudokuGame/Individual.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,11 +88,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sudokuGame/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="15">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -291,7 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,9 +327,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -972,18 +982,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/sudokuGame/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        <state relative-caret-position="15">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sudokuGame/Driver.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
