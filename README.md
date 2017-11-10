@@ -25,7 +25,3 @@ You can read more in: <https://en.wikipedia.org/wiki/Sudoku>
 ## Getting Started  
 All what you need to run the program is  from the main method in Driver class, and the application will choose a random sudoku 
 board from the [realBoards.txt](https://github.com/Abdulrhmanil/Sudoku-Solver/blob/master/boards/realBoards.txt) file.
-
-
-
-we do some conflicts
