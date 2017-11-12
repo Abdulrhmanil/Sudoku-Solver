@@ -32,6 +32,7 @@ public class Driver {
         /* File path that contain the sudoku boards, in specific format*/
         String filePath="boards/realBoards.txt";
 
+
         final SudokuFileUtil fileUtil = new SudokuFileUtil(filePath, sudokuDimensions);
         int[][] board = fileUtil.loadPrintSudoku();
 
