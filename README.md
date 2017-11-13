@@ -23,5 +23,11 @@ or any of the nine 3×3 sub regions of the 9x9 playing board.
 You can read more in: <https://en.wikipedia.org/wiki/Sudoku>
 
 ## Getting Started  
-All what you need to run the program is  from the main method in Driver class, and the application will choose a random sudoku 
+To run the application you just need to run the main method in Driver class,  
+`public class Driver {  
+	public static void main(String[] args) {  
+	...  
+	}  
+}`  
+and the application will choose a random sudoku 
 board from the [realBoards.txt](https://github.com/Abdulrhmanil/Sudoku-Solver/blob/master/boards/realBoards.txt) file.
