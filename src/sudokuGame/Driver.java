@@ -27,7 +27,7 @@ public class Driver {
         int height = 5;
 
         /* Sudoku dimensions, is the sudoku board dimensions*/
-        int sudokuDimensions=9;
+        int sudokuDimensions = 9;
 
         /* File path that contain the sudoku boards, in specific format*/
         String filePath="boards/realBoards.txt";

@@ -30,7 +30,7 @@ from the [realBoards.txt](https://github.com/Abdulrhmanil/Sudoku-Solver/blob/mas
 and then will try to solve it with GP.
 
 ### Preferences
-The application have few preference that you can change via the main methods that can change the application's behavior.
+The application have few preference that you can change via the main method that can change the application's behavior.
 
 1. The size of the population:  
 `int popSize = 100;`  
@@ -63,3 +63,32 @@ The other method to generate individuals while generating a new generation is **
 to apply or NOT to apply **crossover**, in the most cases we want to apply **crossover**, but any way you can choose
 the probability that you wish. I recommend you to choose between 0.5 to 0.9, because you want fitness improvement
 in consecutive way.
+
+5. Percent of the population that considered as a good individuals:  
+`double goodPopulationPercent = 0.4;`  
+The percent of the population that we matting while we applying crossover (matting) to create the new generation.
+When we create the new generation and we determine to apply crossover for the current individual,
+we applying crossover (matting) with one individual that consider as good individual. One individual from the
+**goodPopulationPercent** percent of the individual that have the highest fitness. So you must set the percent of what
+consider as a good individuals, you can choose the whole individuals set _100%_, or just _10%_ .
+I recommend you to choose between 0.3 to 0.7, you don't want choose to much small percent and cause the app failed 
+to find the solution cause after few generation all the individuals in the generation will be similar, and you don't 
+want to choose to much small percent and cause the app **NOT** get improved in consecutive way. Setting the 
+goodPopulationPercent 0.4 is a good choice.
+
+6. The height of the trees in the individuals:  
+`height = 5;`   
+The height of the decision tree in each individual, **MUST** be too careful when choosing the height of the tree,
+large height can cause bad performance in the best cases and OutOfMemoryError in the worst cases cause it take too
+much memory. And choosing to small height can cause the app to be a kind of dumb and unable to solve the sudoku board.
+We recommend to choose 5 to 10 as a height of the tree.     
+
+7. Sudoku dimensions, the sudoku board dimensions:  
+`sudokuDimensions = 9;`
+The dimensions of the sudoku board, the app written in general way that can solve any sudoku board with size NxN,
+when the sqrt(N) is a natural number. So you must set the dimensions of the board so the app can depend on this
+parameter when read the sudoku board from the file.
+
+8. File path that contain the sudoku boards, in specific format:    
+`filePath="boards/realBoards.txt";`
+The path of the file that contain the sudoku boards, that we designed in specific way, you can choose different file.
