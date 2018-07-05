@@ -95,7 +95,7 @@ The path of the file that contain the sudoku boards, that we designed in specifi
 
 ### Experiments
 We ran some experiments to see how the app behave in different preferences and summarize them in one
-[experiments summary.pdf](https://github.com/Abdulrhmanil/Sudoku-Solver/blob/master/experiments/experiments%20summary.pdf) PDF file.
-You can explorer each experiment report in CSV file to see the experiment parameters and some of the population
-in different generation, in one folder here: 
-[reports](https://github.com/Abdulrhmanil/Sudoku-Solver/tree/master/experiments/reports)
+[experiments summary](https://github.com/Abdulrhmanil/Sudoku-Solver/blob/master/experiments/experiments%20summary.pdf)
+PDF file.
+You can explorer each experiment report in CSV file to see the experiment parameters and other info, in one folder here: 
+[reports](https://github.com/Abdulrhmanil/Sudoku-Solver/tree/master/experiments/reports).
