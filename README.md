@@ -84,11 +84,14 @@ much memory. And choosing to small height can cause the app to be a kind of dumb
 We recommend to choose 5 to 10 as a height of the tree.     
 
 7. Sudoku dimensions, the sudoku board dimensions:  
-`sudokuDimensions = 9;`
+`sudokuDimensions = 9;`     
 The dimensions of the sudoku board, the app written in general way that can solve any sudoku board with size NxN,
 when the sqrt(N) is a natural number. So you must set the dimensions of the board so the app can depend on this
 parameter when read the sudoku board from the file.
 
 8. File path that contain the sudoku boards, in specific format:    
-`filePath="boards/realBoards.txt";`
+`filePath="boards/realBoards.txt";`     
 The path of the file that contain the sudoku boards, that we designed in specific way, you can choose different file.
+
+### Experiments
+We ran some experiments to test how the app behave in different preferences and summarize
