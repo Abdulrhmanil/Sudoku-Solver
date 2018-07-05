@@ -69,18 +69,18 @@ in consecutive way.
 The percent of the population that we matting while we applying crossover (matting) to create the new generation.
 When we create the new generation and we determine to apply crossover for the current individual,
 we applying crossover (matting) with one individual that consider as good individual. One individual from the
-**goodPopulationPercent** percent of the individual that have the highest fitness. So you must set the percent of what
+**goodPopulationPercent** percent of the individuals that have the highest fitness. So you must set the percent of what
 consider as a good individuals, you can choose the whole individuals set _100%_, or just _10%_ .
 I recommend you to choose between 0.3 to 0.7, you don't want choose to much small percent and cause the app failed 
 to find the solution cause after few generation all the individuals in the generation will be similar, and you don't 
-want to choose to much small percent and cause the app **NOT** get improved in consecutive way. Setting the 
+want to choose to much large percent and cause the app **NOT** get improved in consecutive way. Setting the 
 goodPopulationPercent 0.4 is a good choice.
 
 6. The height of the trees in the individuals:  
 `height = 5;`   
 The height of the decision tree in each individual, **MUST** be too careful when choosing the height of the tree,
 large height can cause bad performance in the best cases and OutOfMemoryError in the worst cases cause it take too
-much memory. And choosing to small height can cause the app to be a kind of dumb and unable to solve the sudoku board.
+much memory. And choosing too small height can cause the app to be a kind of dumb and unable to solve the sudoku board.
 We recommend to choose 5 to 10 as a height of the tree.     
 
 7. Sudoku dimensions, the sudoku board dimensions:  
