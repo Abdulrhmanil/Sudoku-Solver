@@ -94,4 +94,8 @@ parameter when read the sudoku board from the file.
 The path of the file that contain the sudoku boards, that we designed in specific way, you can choose different file.
 
 ### Experiments
-We ran some experiments to test how the app behave in different preferences and summarize
+We ran some experiments to see how the app behave in different preferences and summarize them in one
+[Reports.pdf](https://github.com/Abdulrhmanil/Sudoku-Solver/blob/master/experiments/Reports.pdf) PDF file.
+You can explorer each experiment report in CSV file to see the experiment parameters and some of the population
+in different generation, in one folder here: 
+[reports](https://github.com/Abdulrhmanil/Sudoku-Solver/tree/master/experiments/reports)
